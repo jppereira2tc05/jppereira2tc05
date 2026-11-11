@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm an telecomunications engineering student at Universidad Tecnológica Nacional Facultad Regional Mendoza
 <!--
 **jppereira2tc05/jppereira2tc05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
